@@ -5,7 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nawaz3651" alt="nawaz3651" /></a> </p>
 
+- 🔭 I’m currently working on **Basic python and frontend projects**
+
+- 🌱 I’m currently learning **Python**
+
+- 🤝 I’m looking for help with understanding machine learning fundamentals **machine learning fundamentals**
+
 - 📫 How to reach me **azamnawaz3651@gmail.com**
+
+- ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
