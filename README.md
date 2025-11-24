@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 🤝 I’m looking for help with understanding machine learning fundamentals **machine learning fundamentals**
+- 🤝 I’m looking for help with understanding **machine learning fundamentals**
 
 - 📫 How to reach me **azamnawaz3651@gmail.com**
 
