@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nawaz Azam</h1>
 <h3 align="center">Aspiring Software Developer | ML Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://whizen.in/wp-content/uploads/2025/01/with-bg.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawaz3651&label=Profile%20views&color=0e75b6&style=flat" alt="nawaz3651" /> </p>
 
